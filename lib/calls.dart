@@ -69,22 +69,6 @@ class Calls extends StatelessWidget {
                 ])),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/908Gt975/download-10.jpg"),
-                radius: 30,
-              ),
-              trailing: Icon(
-                Icons.call,
-                size: 28,
-                color: Colors.teal,
-              ),
-              title: Text(
-                "Ibu",
-                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
-              ),
-              subtitle: Text("Hari ini 08.07"),
-            ),
-            ListTile(
-              leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://i.postimg.cc/d1CLWSS9/Jalsah-Al-istiraha-How-To-Sit.jpg"),
                 radius: 30,
               ),
