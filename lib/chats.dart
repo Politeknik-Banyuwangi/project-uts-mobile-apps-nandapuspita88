@@ -73,6 +73,7 @@ class Chats extends StatelessWidget {
               trailing: Column(children: [
                 Text("11.15"),
                 Container(
+                  width: 20,
                   child: CircleAvatar(child: Text("1")),
                 )
               ]),
