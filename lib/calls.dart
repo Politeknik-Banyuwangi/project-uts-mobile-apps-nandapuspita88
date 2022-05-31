@@ -155,9 +155,9 @@ class Calls extends StatelessWidget {
                 ),
                 subtitle: Row(children: [
                   Icon(
-                    Icons.call_received,
+                    Icons.call_made,
                     size: 15,
-                    color: Colors.green,
+                    color: Colors.red,
                   ),
                   Text("Kemarin 18.55")
                 ])),
