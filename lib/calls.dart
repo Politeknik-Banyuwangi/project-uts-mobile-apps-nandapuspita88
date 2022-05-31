@@ -65,7 +65,7 @@ class Calls extends StatelessWidget {
                     size: 15,
                     color: Colors.green,
                   ),
-                  Text("Image")
+                  Text("Hari ini 09.38")
                 ])),
             ListTile(
               leading: CircleAvatar(
