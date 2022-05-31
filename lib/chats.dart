@@ -47,6 +47,17 @@ class Chats extends StatelessWidget {
             getChats("Omar Hassan", "Yestrday, 5:5 Am"),
             getChats("Sasuke", "Just now"),
             getChats("Ronaldo", "Today, 2:8 pm"),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
+                radius: 30,
+              ),
+              title: Text(
+                "Carlos",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Today, 2:54 pm"),
+            ),
             SizedBox(
               height: 10,
             ),
