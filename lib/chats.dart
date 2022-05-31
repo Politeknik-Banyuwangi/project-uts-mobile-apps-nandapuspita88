@@ -53,6 +53,18 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/gjHM9sBC/On-The-Night-Of-Ramadan-Vector-Illustration-Flat-Design-Arab-Background-Belief-PNG-and-Vector-wit.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("12.00"),
+              title: Text(
+                "Mas",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Iya masih dikampus"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://i.postimg.cc/kgryjxHq/muslimah-ootd.jpg"),
                 radius: 30,
               ),
@@ -77,7 +89,7 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
+                backgroundImage: NetworkImage("https://i.postimg.cc/zXPBwrxg/download-11.jpg"),
                 radius: 30,
               ),
               trailing: Text("12.00"),
@@ -89,7 +101,7 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
+                backgroundImage: NetworkImage("https://i.postimg.cc/MHHwXc2r/white-black-outfits-with-hijab.jpg"),
                 radius: 30,
               ),
               trailing: Text("12.00"),
