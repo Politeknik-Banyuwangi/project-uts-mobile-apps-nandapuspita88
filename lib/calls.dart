@@ -50,19 +50,27 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/908Gt975/download-10.jpg"),
                 radius: 30,
               ),
-              trailing: Text("11.49"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
-                "Mas",
+                "Ibu",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Iya masih dikampus"),
+              subtitle: Text("Hari ini 08.07"),
             ),
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://i.postimg.cc/d1CLWSS9/Jalsah-Al-istiraha-How-To-Sit.jpg"),
                 radius: 30,
               ),
-              trailing: Text("11.49"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Mas",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -74,7 +82,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/kgryjxHq/muslimah-ootd.jpg"),
                 radius: 30,
               ),
-              trailing: Text("11.15"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Cipo",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -86,7 +98,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/KjMMLWxL/9-Inspirasi-Gaya-OOTD-Casual-ala-Dian-Ayu-yang-Hits-Abis.jpg"),
                 radius: 30,
               ),
-              trailing: Text("10.38"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Risma",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -98,7 +114,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/zXPBwrxg/download-11.jpg"),
                 radius: 30,
               ),
-              trailing: Text("10.12"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Hoirin",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -110,7 +130,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/MHHwXc2r/white-black-outfits-with-hijab.jpg"),
                 radius: 30,
               ),
-              trailing: Text("10.01"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Mbak Annisa",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -122,7 +146,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/Z5HC9d1J/download-12.jpg"),
                 radius: 30,
               ),
-              trailing: Text("09.39"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Wafiq",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -134,7 +162,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/fRPQgWdx/e4fb7448-87cc-42a7-89aa-9e931d348aa4.jpg"),
                 radius: 30,
               ),
-              trailing: Text("09.17"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "+6281278039287",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -146,7 +178,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/NfLNC6kz/download-13.jpg"),
                 radius: 30,
               ),
-              trailing: Text("08.45"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Hawa",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -158,7 +194,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/PrG4ygNP/download-14.jpg"),
                 radius: 30,
               ),
-              trailing: Text("08.32"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Aleena",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -170,7 +210,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/7YCFJ8dh/Remake.jpg"),
                 radius: 30,
               ),
-              trailing: Text("08.13"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Zade",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -182,7 +226,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/7PXzGj7F/Hajar-Beauty-hajar-boulahdid-Instagram-photos-and-videos.jpg"),
                 radius: 30,
               ),
-              trailing: Text("Kemarin"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Nanda",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
