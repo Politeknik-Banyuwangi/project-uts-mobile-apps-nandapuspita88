@@ -79,7 +79,7 @@ class Calls extends StatelessWidget {
                   radius: 30,
                 ),
                 trailing: Icon(
-                  Icons.video_call_outlined,
+                  Icons.videocam_off_outlined,
                   size: 28,
                   color: Colors.teal,
                 ),
