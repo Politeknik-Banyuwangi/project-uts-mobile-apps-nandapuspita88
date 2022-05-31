@@ -121,7 +121,6 @@ class Chats extends StatelessWidget {
                   Icon(
                     Icons.done,
                     size: 15,
-                    color: Colors.blue,
                   ),
                   Text("Lagi free nggak")
                 ])),
