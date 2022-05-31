@@ -254,7 +254,7 @@ class Chats extends StatelessWidget {
                 "Nana",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Barng tapi ya"),
+              subtitle: Text("Bareng tapi ya"),
             ),
             ListTile(
               leading: CircleAvatar(
