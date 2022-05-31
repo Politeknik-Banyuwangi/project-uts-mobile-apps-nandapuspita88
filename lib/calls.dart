@@ -34,7 +34,11 @@ class Calls extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/jdKZ46nN/download-9.jpg"),
                 radius: 30,
               ),
-              trailing: Text("13.05"),
+              trailing: Icon(
+                Icons.call,
+                size: 28,
+                color: Colors.teal,
+              ),
               title: Text(
                 "Ibu",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -225,41 +229,6 @@ class Calls extends StatelessWidget {
             ),
           ),
         ],
-      ),
-    );
-  }
-
-  Widget callPhone(String name, IconData iconSitus, Color iconColor, String Time, NetworkImage image) {
-    return Card(
-      margin: EdgeInsets.only(bottom: 0.9),
-      child: ListTile(
-        leading: CircleAvatar(
-          backgroundImage: image,
-          radius: 40,
-        ),
-        title: Text(
-          name,
-          style: TextStyle(fontWeight: FontWeight.w700),
-        ),
-        subtitle: Row(
-          children: [
-            Icon(
-              iconSitus,
-              color: iconColor,
-              size: 20,
-            ),
-            SizedBox(width: 6),
-            Text(
-              Time,
-              style: TextStyle(fontSize: 13),
-            ),
-          ],
-        ),
-        trailing: Icon(
-          Icons.call,
-          size: 28,
-          color: Colors.teal,
-        ),
       ),
     );
   }
