@@ -75,7 +75,7 @@ class Calls extends StatelessWidget {
                 "Mas",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Iya masih dikampus"),
+              subtitle: Text("Hari ini 06.48"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -91,7 +91,7 @@ class Calls extends StatelessWidget {
                 "Cipo",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Goodjob Nan"),
+              subtitle: Text("Kemarin 20.14"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -107,7 +107,7 @@ class Calls extends StatelessWidget {
                 "Risma",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Nanda nanti jam 15.00 jangan lupa ya"),
+              subtitle: Text("Kemarin 19.00"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -123,7 +123,7 @@ class Calls extends StatelessWidget {
                 "Hoirin",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("RAB nya apa kabar rin?"),
+              subtitle: Text("Kemarin 18.55"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -139,7 +139,7 @@ class Calls extends StatelessWidget {
                 "Mbak Annisa",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Lagi free nggak?"),
+              subtitle: Text("Kemarin 15.25"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -155,7 +155,7 @@ class Calls extends StatelessWidget {
                 "Wafiq",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Buku catatanmu ketinggalan di rumah akuu"),
+              subtitle: Text("Kemarin 11.27"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -171,7 +171,7 @@ class Calls extends StatelessWidget {
                 "+6281278039287",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Apakah benar ini nomornya mbak Nanda?"),
+              subtitle: Text("Kemarin 09.19"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -187,7 +187,7 @@ class Calls extends StatelessWidget {
                 "Hawa",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Kerumah aja"),
+              subtitle: Text("Kemarin 06.55"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -203,7 +203,7 @@ class Calls extends StatelessWidget {
                 "Aleena",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Lusa belajar bareng yukk buat prepare UAS"),
+              subtitle: Text("Kemarin 06.54"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -219,7 +219,7 @@ class Calls extends StatelessWidget {
                 "Zade",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Acara minggu depan itu pematerinya udah di lobby?"),
+              subtitle: Text("Kemarin 06.36"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -232,10 +232,10 @@ class Calls extends StatelessWidget {
                 color: Colors.teal,
               ),
               title: Text(
-                "Nanda",
+                "Alila",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Okeyy Alila"),
+              subtitle: Text("Kemarin 05.47"),
             ),
             SizedBox(
               height: 10,

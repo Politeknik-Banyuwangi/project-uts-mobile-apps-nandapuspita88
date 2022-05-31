@@ -180,10 +180,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("Kemarin"),
               title: Text(
-                "Nanda",
+                "Alila",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Okeyy Alila"),
+              subtitle: Text("Okeyy Nanda"),
             ),
             SizedBox(
               height: 10,
