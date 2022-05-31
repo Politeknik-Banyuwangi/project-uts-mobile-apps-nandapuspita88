@@ -27,7 +27,6 @@ class Chats extends StatelessWidget {
         },
         child: ListView(
           children: [
-            getChats("Ayang", "Selamat pagi :)"),
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
