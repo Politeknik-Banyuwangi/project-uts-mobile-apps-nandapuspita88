@@ -99,9 +99,13 @@ class Chats extends StatelessWidget {
                   "Hoirin",
                   style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
                 ),
-                subtitle: Row(children: <Widget>[
-                  Icon(Icons.done_all),
-                  Text("Image")
+                subtitle: Row(children: [
+                  Icon(
+                    Icons.done_all,
+                    size: 15,
+                    color: Colors.blue,
+                  ),
+                  Text("Kemarin 20.14")
                 ])),
             ListTile(
               leading: CircleAvatar(
