@@ -45,7 +45,7 @@ class Calls extends StatelessWidget {
                 ),
                 subtitle: Row(children: [
                   Icon(
-                    Icons.call_received,
+                    Icons.videocam,
                     size: 15,
                     color: Colors.green,
                   ),
@@ -101,7 +101,7 @@ class Calls extends StatelessWidget {
                   radius: 30,
                 ),
                 trailing: Icon(
-                  Icons.call,
+                  Icons.videocam,
                   size: 28,
                   color: Colors.teal,
                 ),
@@ -123,7 +123,7 @@ class Calls extends StatelessWidget {
                   radius: 30,
                 ),
                 trailing: Icon(
-                  Icons.call,
+                  Icons.videocam,
                   size: 28,
                   color: Colors.teal,
                 ),
@@ -145,7 +145,7 @@ class Calls extends StatelessWidget {
                   radius: 30,
                 ),
                 trailing: Icon(
-                  Icons.call,
+                  Icons.videocam,
                   size: 28,
                   color: Colors.teal,
                 ),
@@ -167,7 +167,7 @@ class Calls extends StatelessWidget {
                   radius: 30,
                 ),
                 trailing: Icon(
-                  Icons.call,
+                  Icons.videocam,
                   size: 28,
                   color: Colors.teal,
                 ),
