@@ -33,11 +33,12 @@ class Chats extends StatelessWidget {
                 backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
                 radius: 30,
               ),
+              trailing: Text("12.00"),
               title: Text(
                 "Carlos",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Today, 2:54 pm"),
+              subtitle: Text("Haloo"),
             ),
             SizedBox(
               height: 10,
