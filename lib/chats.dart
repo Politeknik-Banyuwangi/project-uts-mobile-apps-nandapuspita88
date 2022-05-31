@@ -32,7 +32,7 @@ class Chats extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/jdKZ46nN/download-9.jpg"),
                 radius: 30,
               ),
-              trailing: Text("12.00"),
+              trailing: Text("13.05"),
               title: Text(
                 "Ibu",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -53,7 +53,7 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/gjHM9sBC/On-The-Night-Of-Ramadan-Vector-Illustration-Flat-Design-Arab-Background-Belief-PNG-and-Vector-wit.jpg"),
+                backgroundImage: NetworkImage("https://i.postimg.cc/d1CLWSS9/Jalsah-Al-istiraha-How-To-Sit.jpg"),
                 radius: 30,
               ),
               trailing: Text("11.49"),
