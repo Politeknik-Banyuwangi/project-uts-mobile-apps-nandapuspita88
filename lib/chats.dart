@@ -53,7 +53,7 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/9MG27Ps0/image.jpg"),
+                backgroundImage: NetworkImage("https://i.postimg.cc/kgryjxHq/muslimah-ootd.jpg"),
                 radius: 30,
               ),
               trailing: Text("12.00"),
@@ -65,7 +65,7 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
+                backgroundImage: NetworkImage("https://i.postimg.cc/KjMMLWxL/9-Inspirasi-Gaya-OOTD-Casual-ala-Dian-Ayu-yang-Hits-Abis.jpg"),
                 radius: 30,
               ),
               trailing: Text("12.00"),
