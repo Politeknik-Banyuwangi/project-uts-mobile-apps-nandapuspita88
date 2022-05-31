@@ -46,10 +46,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Mbak Annisa",
+                "Mbak Dena Haura",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Iya mbak,pasti dateng kok"),
+              subtitle: Text("Gamis yang hitam mbak, cocok pasti itu"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -70,10 +70,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Carlos",
+                "Risma",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Haloo"),
+              subtitle: Text("Nanda nanti jam 15.00 jangan lupa ya"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -82,10 +82,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Carlos",
+                "Hoirin",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Haloo"),
+              subtitle: Text("RAB nya apa kabar rin?"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -94,10 +94,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Carlos",
+                "Mbak Annisa",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Haloo"),
+              subtitle: Text("Siap mbak, pasti dateng kok"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -106,10 +106,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Carlos",
+                "Wafiq",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Haloo"),
+              subtitle: Text("Buku catatanmu ketinggalan di rumah akuu"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -118,10 +118,10 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Carlos",
+                "+6281278039287",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Haloo"),
+              subtitle: Text("Apakah benar ini nomornya mbak Nanda?"),
             ),
             ListTile(
               leading: CircleAvatar(
