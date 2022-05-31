@@ -70,7 +70,12 @@ class Chats extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/kgryjxHq/muslimah-ootd.jpg"),
                 radius: 30,
               ),
-              trailing: Text("11.15"),
+              trailing: Column(children: [
+                Text("11.15"),
+                Container(
+                  child: CircleAvatar(child: Text("1")),
+                )
+              ]),
               title: Text(
                 "Cipo",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
