@@ -318,14 +318,6 @@ class Calls extends StatelessWidget {
             SizedBox(
               height: 10,
             ),
-
-            // Masukkan Coding disini jangan rubah lainnya
-            //
-            //
-            //
-            //
-            //
-            //
           ],
         ),
       ),
