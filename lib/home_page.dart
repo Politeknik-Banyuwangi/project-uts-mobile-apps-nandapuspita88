@@ -104,7 +104,7 @@ class _CameraState extends State<Camera> {
       body: Center(
         child: Text(
           "Nanda Ayu Puspita (362055401118)",
-          style: TextStyle(color: Colors.teal, fontWeight: FontWeight.bold, fontSize: 25),
+          style: TextStyle(color: Colors.teal, fontWeight: FontWeight.bold, fontSize: 15),
         ),
       ),
     );
