@@ -46,7 +46,7 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("12.00"),
               title: Text(
-                "Mbak Dena Haura",
+                "Dena Haura",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
               subtitle: Text("Gamis yang hitam mbak, cocok pasti itu"),
