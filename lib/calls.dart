@@ -60,7 +60,7 @@ class Calls extends StatelessWidget {
                   style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
                 ),
                 subtitle: Row(children: <Widget>[
-                  Icon(Icons.camera_alt),
+                  Icon(Icons.call_received),
                   Text("Image")
                 ])),
             ListTile(
