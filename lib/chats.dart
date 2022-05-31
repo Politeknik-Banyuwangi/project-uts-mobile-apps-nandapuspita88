@@ -40,17 +40,19 @@ class Chats extends StatelessWidget {
               subtitle: Text("Dek pulang jam berapa?"),
             ),
             ListTile(
-              leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/908Gt975/download-10.jpg"),
-                radius: 30,
-              ),
-              trailing: Text("12.42"),
-              title: Text(
-                "Dena Haura",
-                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
-              ),
-              subtitle: Text("Gamis yang hitam mbak, cocok pasti itu"),
-            ),
+                leading: CircleAvatar(
+                  backgroundImage: NetworkImage("https://i.postimg.cc/908Gt975/download-10.jpg"),
+                  radius: 30,
+                ),
+                trailing: Text("12.42"),
+                title: Text(
+                  "Dena Haura",
+                  style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+                ),
+                subtitle: Row(children: <Widget>[
+                  Icon(Icons.camera_alt),
+                  Text("Image")
+                ])),
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://i.postimg.cc/d1CLWSS9/Jalsah-Al-istiraha-How-To-Sit.jpg"),
