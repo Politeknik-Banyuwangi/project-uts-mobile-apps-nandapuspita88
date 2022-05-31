@@ -108,17 +108,23 @@ class Chats extends StatelessWidget {
                   Text("RAB nya gimana Rin?")
                 ])),
             ListTile(
-              leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/MHHwXc2r/white-black-outfits-with-hijab.jpg"),
-                radius: 30,
-              ),
-              trailing: Text("10.01"),
-              title: Text(
-                "Mbak Annisa",
-                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
-              ),
-              subtitle: Text("Lagi free nggak?"),
-            ),
+                leading: CircleAvatar(
+                  backgroundImage: NetworkImage("https://i.postimg.cc/MHHwXc2r/white-black-outfits-with-hijab.jpg"),
+                  radius: 30,
+                ),
+                trailing: Text("10.01"),
+                title: Text(
+                  "Mbak Annisa",
+                  style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+                ),
+                subtitle: Row(children: [
+                  Icon(
+                    Icons.done,
+                    size: 15,
+                    color: Colors.blue,
+                  ),
+                  Text("Lagi free nggak")
+                ])),
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://i.postimg.cc/Z5HC9d1J/download-12.jpg"),
