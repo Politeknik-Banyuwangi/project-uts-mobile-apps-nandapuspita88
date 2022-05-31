@@ -46,19 +46,17 @@ class Calls extends StatelessWidget {
               subtitle: Text("Hari ini 13.01"),
             ),
             ListTile(
-                leading: CircleAvatar(
-                  backgroundImage: NetworkImage("https://i.postimg.cc/908Gt975/download-10.jpg"),
-                  radius: 30,
-                ),
-                trailing: Text("12.42"),
-                title: Text(
-                  "Dena Haura",
-                  style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
-                ),
-                subtitle: Row(children: <Widget>[
-                  Icon(Icons.camera_alt),
-                  Text("Image")
-                ])),
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/908Gt975/download-10.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("11.49"),
+              title: Text(
+                "Mas",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Iya masih dikampus"),
+            ),
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://i.postimg.cc/d1CLWSS9/Jalsah-Al-istiraha-How-To-Sit.jpg"),
