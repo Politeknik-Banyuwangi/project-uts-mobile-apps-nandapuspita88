@@ -105,7 +105,7 @@ class Chats extends StatelessWidget {
                     size: 15,
                     color: Colors.blue,
                   ),
-                  Text("Kemarin 20.14")
+                  Text("RAB nya gimana Rin?")
                 ])),
             ListTile(
               leading: CircleAvatar(
