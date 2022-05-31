@@ -179,7 +179,7 @@ class Calls extends StatelessWidget {
                   Icon(
                     Icons.call_received,
                     size: 15,
-                    color: Colors.green,
+                    color: Colors.red,
                   ),
                   Text("Kemarin 15.25")
                 ])),
@@ -245,7 +245,7 @@ class Calls extends StatelessWidget {
                   Icon(
                     Icons.call_received,
                     size: 15,
-                    color: Colors.green,
+                    color: Colors.red,
                   ),
                   Text("Kemarin 06.55")
                 ])),
