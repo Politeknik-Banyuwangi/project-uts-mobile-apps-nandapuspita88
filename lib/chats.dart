@@ -29,6 +29,18 @@ class Chats extends StatelessWidget {
           children: [
             ListTile(
               leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/jdKZ46nN/download-9.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("12.00"),
+              title: Text(
+                "Ibu",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Dek pulang jam berapa?"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
                 radius: 30,
               ),
