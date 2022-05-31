@@ -75,7 +75,7 @@ class Chats extends StatelessWidget {
                 "Cipo",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Terimakasih Cipoo"),
+              subtitle: Text("Goodjob Nan"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -111,7 +111,7 @@ class Chats extends StatelessWidget {
                 "Mbak Annisa",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
-              subtitle: Text("Siap mbak, pasti dateng kok"),
+              subtitle: Text("Lagi free nggak?"),
             ),
             ListTile(
               leading: CircleAvatar(
@@ -180,7 +180,7 @@ class Chats extends StatelessWidget {
               ),
               trailing: Text("Kemarin"),
               title: Text(
-                "Alila",
+                "Nanda",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
               ),
               subtitle: Text("Okeyy Alila"),
