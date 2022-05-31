@@ -196,6 +196,42 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Text("Okeyy Nanda"),
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/NfLNC6kz/download-13.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("08.45"),
+              title: Text(
+                "Nadia",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Mauu aku"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/NfLNC6kz/download-13.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("08.45"),
+              title: Text(
+                "Sinta",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Silakan"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/NfLNC6kz/download-13.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("08.45"),
+              title: Text(
+                "Aliya",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Boleh"),
+            ),
             SizedBox(
               height: 10,
             ),
