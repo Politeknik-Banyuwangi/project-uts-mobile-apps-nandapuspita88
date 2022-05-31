@@ -201,7 +201,7 @@ class Chats extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/13fvtYcy/Kumpulan-Gaya-Ootd-Hijab-Kampus.jpg"),
                 radius: 30,
               ),
-              trailing: Text("08.45"),
+              trailing: Text("Kemarin"),
               title: Text(
                 "Nadia",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -213,7 +213,7 @@ class Chats extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/CLMPyKRB/Hijab-Style-For-Ramadhan-Inspirations-on-We-Heart-It.jpg"),
                 radius: 30,
               ),
-              trailing: Text("08.45"),
+              trailing: Text("Kemarin"),
               title: Text(
                 "Sinta",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
@@ -225,7 +225,7 @@ class Chats extends StatelessWidget {
                 backgroundImage: NetworkImage("https://i.postimg.cc/tThSbZdP/Bukan-Hitam-Ini-8-Pilihan-Warna-Rok-Plisket-yang-Sama-Netralnya.jpg"),
                 radius: 30,
               ),
-              trailing: Text("08.45"),
+              trailing: Text("Kemarin"),
               title: Text(
                 "Aliya",
                 style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
