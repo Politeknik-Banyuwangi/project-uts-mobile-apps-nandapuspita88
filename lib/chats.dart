@@ -28,25 +28,6 @@ class Chats extends StatelessWidget {
         child: ListView(
           children: [
             getChats("Ayang", "Selamat pagi :)"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
-            getChats("Moh salah", "6 minutes ago"),
-            getChats("Rossi", "25 minutes ago"),
-            getChats("Torres", "Yestrday, 8:45 pm"),
-            getChats("Omar Hassan", "Yestrday, 5:5 Am"),
-            getChats("Sasuke", "Just now"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
-            getChats("Moh salah", "6 minutes ago"),
-            getChats("Rossi", "25 minutes ago"),
-            getChats("Torres", "Yestrday, 8:45 pm"),
-            getChats("Omar Hassan", "Yestrday, 5:5 Am"),
-            getChats("Sasuke", "Just now"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
-            getChats("Moh salah", "6 minutes ago"),
-            getChats("Rossi", "25 minutes ago"),
-            getChats("Torres", "Yestrday, 8:45 pm"),
-            getChats("Omar Hassan", "Yestrday, 5:5 Am"),
-            getChats("Sasuke", "Just now"),
-            getChats("Ronaldo", "Today, 2:8 pm"),
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: NetworkImage("https://asset.kompas.com/crops/-EE26_TNXjiiiz5NP-cvLblAJX4=/0x0:946x631/750x500/data/photo/2020/09/23/5f6ab981c74e4.jpg"),
