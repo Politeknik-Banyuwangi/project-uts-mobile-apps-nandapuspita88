@@ -246,7 +246,7 @@ class Chats extends StatelessWidget {
             ),
             ListTile(
               leading: CircleAvatar(
-                backgroundImage: NetworkImage("https://i.postimg.cc/GhT5xxpL/download-16.jpg"),
+                backgroundImage: NetworkImage("https://i.postimg.cc/4dZYBPGr/Ootd-hijab-remaja.jpg"),
                 radius: 30,
               ),
               trailing: Text("Kemarin"),
