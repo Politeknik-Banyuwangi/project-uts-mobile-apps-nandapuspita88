@@ -232,6 +232,54 @@ class Chats extends StatelessWidget {
               ),
               subtitle: Text("Boleh"),
             ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/tJKZd5mn/download-15.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("Kemarin"),
+              title: Text(
+                "Afifa",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Kira-kira cocok nggak?"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/4dZYBPGr/Ootd-hijab-remaja.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("Kemarin"),
+              title: Text(
+                "Nana",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Bareng tapi ya"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/Y9VJtnSP/download-17.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("Kemarin"),
+              title: Text(
+                "Bintang",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Ayok gass"),
+            ),
+            ListTile(
+              leading: CircleAvatar(
+                backgroundImage: NetworkImage("https://i.postimg.cc/5tD30Zw8/download-18.jpg"),
+                radius: 30,
+              ),
+              trailing: Text("Kemarin"),
+              title: Text(
+                "Bunga",
+                style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
+              ),
+              subtitle: Text("Lusa aja deh ya"),
+            ),
             SizedBox(
               height: 10,
             ),
