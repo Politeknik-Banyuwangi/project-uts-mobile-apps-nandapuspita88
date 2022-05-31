@@ -59,8 +59,12 @@ class Calls extends StatelessWidget {
                   "Dena Haura",
                   style: TextStyle(color: Colors.black, fontWeight: FontWeight.w500),
                 ),
-                subtitle: Row(children: <Widget>[
-                  Icon(Icons.call_received),
+                subtitle: Row(children: [
+                  Icon(
+                    Icons.call_received,
+                    size: 15,
+                    color: Colors.green,
+                  ),
                   Text("Image")
                 ])),
             ListTile(
